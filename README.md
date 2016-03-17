@@ -14,7 +14,7 @@ Assuming you've followed the above instructions for the Discourse Docker image:
  6. In the `hooks` section at the bottom, add the following to `cmd:`
 
 ```yaml
-- git clone https://github.com/davidcelis/new_relic-discourse.git
+- git clone https://github.com/oneapmIO/new_relic-discourse.git
 ```
  7. (optional) In the `run` section at the bottom, add the following to get notified about new 'deployments':
 
